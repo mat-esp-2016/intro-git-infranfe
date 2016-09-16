@@ -1,4 +1,5 @@
 Instruções para o jogo
-1- Dispor aleatóriamente as n cartas, definindo o posicionamento em escala numérica em ordem crescente iniciando pelo número 1
-2- Iniciando pela posição 1, fixe-a e compare as demais cartas, mantendo-os em suas respectivas posições caso a carta na posição de menor valor numérico for a da frente, repita isso com as demais cartas
-3-Conclua o experimento comparando a carta de posição n-1, com a carta situada na posição n
+1- Dispor as cartas aleatoriamente, definindo o posicionamento em escala numérica de 1 a n
+2- Iniciando pela posição 1, fixe-a e a compare com as demais cartas, uma a uma, em ordem cresente, iniciando pela carta posterior a da posição permanente escolhida. Mantenha as cartas em  suas respectivas posições caso a carta situada mais a esquerda possua o menor valor numérico, caso contrário, troque-as deposição, mantendo a cartade menor valor numéricona posição mais a esquerda, repita com as demais cartas
+3- Repita o processo com todas as cartasna ordem das posições
+4- Conclua o experimento comparando a carta na posição n-1 com a carta situada na posição n
