@@ -1,9 +1,13 @@
-Receber n cartas e distribuí-las de 1 a n 
-    1. Distribuir as cartas nas posições X e Y, sendo X=1 e Y= X+1 
-    2. Se ovalor da carta na posição Y for maior que X 
-        então troque-as de posição 
-        virá-las para baixo 
-    3. Virar as cartas nas posições X e Y, sendo X=Y do processo anterior e Y= X+1
-        Repetir processo 2
-    4. Repetir processo 3 até Y= b, sendo b= n
-    5. Repetir processo 3 até Y= b, sendo b= 1
+N cartas, numeradas de 1 a N
+
+Para a carta-final, indo de n-1 até a carta final , de 1  a 1
+Desvirar a carta i  e a carta i e a carta  i+1 
+Se o valor da carta i for maior que i+1 ,  
+Troque as de lugar .
+Virar a carta i+1 .
+.
+.
+.
+.
+Para n cartas numeradas de 1 a n 
+Para a carta final (n-1) até 2, de  -1 em -1
