@@ -1,7 +1,9 @@
-1- Receber as cartas viradas para baixo em 5 posições 
-2- Desvirar as cartas na posição 1 e na posição 2
-3- Se a carta na posição superior for menor que a da posição inferior trocar, se for maior manter na mesma posição
-4- Desvirar as cartas nas osições 2 e 3, e repetir o processo 3
-5- Desvirar as cartas nas posições 3 e 4, repetir o processo 3
-6- Desvirar as cartas nas posições 4 e 5, repetir o processo 3
-7- Repetir todo o processo 5 vezes até que não haja mais troca 
+Receber n cartas e distribuí-las de 1 a n 
+    1. Distribuir as cartas nas posições X e Y, sendo X=1 e Y= X+1 
+    2. Se ovalor da carta na posição Y for maior que X 
+        então troque-as de posição 
+        virá-las para baixo 
+    3. Virar as cartas nas posições X e Y, sendo X=Y do processo anterior e Y= X+1
+        Repetir processo 2
+    4. Repetir processo 3 até Y= b, sendo b= n
+    5. Repetir processo 3 até Y= b, sendo b= 1
