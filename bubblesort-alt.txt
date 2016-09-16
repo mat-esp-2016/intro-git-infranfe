@@ -1,0 +1,6 @@
+Instruções para o jogo
+1- Dispor as cartas aleatoriamente, definindo posicionalmente em escala numéricade 1 a 5
+2- Pegar a carta da posição 1 e compará-la com a carta da posição 2, caso a carta da posição 1 for menor que a da posição 2, mantenha em suas respectivas posições, caso a carta da posição 2 seja menor que a da posição 1, troque-as. Repita esse passo comparando as cartas 1 e 3, 1 e 4, 1 e 5
+3- Compare as cartas da posição 2 com a 3 , mantenha-as em suas respectivos lugares caso a carta da posição 2 for menor que a 3, caso contrário troque-as de lugar, posteriormente compare 2 e 4, 2 e 5
+4- Compare as cartas da posição 3 com a 4, mantenha-as em seus respectivos lugares caso a carta da posição 3 for menor que a 4, caso contrário troque-as de lugar, posteriormente compare 3 e 5
+5- Compare a carta da posição 4 com a 5, mantenha-as em seus respectivos lugares caso a carta da posição 4 for menor que a 5, caso contrário troque-as de lugar
